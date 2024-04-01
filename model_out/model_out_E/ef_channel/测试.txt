@@ -1,0 +1,23 @@
+
+0it [00:00, ?it/s][A idx 0 case case0008 mean_dice 0.716032 mean_hd95 8.401034
+1it [01:48, 108.22s/it][A idx 1 case case0022 mean_dice 0.923144 mean_hd95 1.707107
+2it [02:50, 80.99s/it] [A idx 2 case case0038 mean_dice 0.856781 mean_hd95 3.734219
+3it [04:01, 76.41s/it][A idx 3 case case0036 mean_dice 0.879867 mean_hd95 3.855387
+4it [06:25, 103.09s/it][A idx 4 case case0032 mean_dice 0.903031 mean_hd95 5.771122
+5it [08:13, 105.01s/it][A idx 5 case case0002 mean_dice 0.883093 mean_hd95 16.652772
+6it [09:54, 103.73s/it][A idx 6 case case0029 mean_dice 0.817780 mean_hd95 15.753740
+7it [11:02, 92.07s/it] [A idx 7 case case0003 mean_dice 0.819247 mean_hd95 40.353699
+8it [13:35, 111.40s/it][A idx 8 case case0001 mean_dice 0.823160 mean_hd95 10.882450
+9it [15:25, 111.06s/it][A idx 9 case case0004 mean_dice 0.805971 mean_hd95 40.519262
+10it [17:09, 108.76s/it][A idx 10 case case0025 mean_dice 0.889074 mean_hd95 17.381538
+11it [18:11, 94.40s/it] [A idx 11 case case0035 mean_dice 0.896904 mean_hd95 2.650438
+12it [19:09, 95.83s/it]
+Mean class 1 mean_dice 0.890965 mean_hd95 19.024950
+Mean class 2 mean_dice 0.756772 mean_hd95 5.900352
+Mean class 3 mean_dice 0.878620 mean_hd95 40.350429
+Mean class 4 mean_dice 0.851093 mean_hd95 8.378885
+Mean class 5 mean_dice 0.958014 mean_hd95 8.922351
+Mean class 6 mean_dice 0.685263 mean_hd95 8.841542
+Mean class 7 mean_dice 0.930404 mean_hd95 7.854389
+Mean class 8 mean_dice 0.858259 mean_hd95 12.502281
+Testing performance in best val model: mean_dice : 0.851174 mean_hd95 : 13.971897
